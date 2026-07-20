@@ -10,31 +10,24 @@
 
 <!-- INTRODUCTION -->
 
-<table>
-<tr>
-<td width="35%" align="center" valign="middle">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2800&pause=900&color=74B8AE&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sara.;Software+Engineering+Student.;Backend+%26+Mobile+Developer.;Turning+ideas+into+solutions."
+    alt="Typing animation"
+  />
+</p>
 
-<img src="./profile-photo.jpeg" width="280" alt="Sara Ponjević">
-
-</td>
-<td width="65%" align="center" valign="middle">
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2800&pause=900&color=74B8AE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sara.;Software+Engineering+Student.;Backend+%26+Mobile+Developer.;Turning+ideas+into+solutions."
-  alt="Typing animation"
-/>
-
-<p>
+<p align="center">
   Final-year student at the
   <b>Faculty of Technical Sciences in Novi Sad</b>.
 </p>
 
-<p>
+<p align="center">
   I enjoy building modern applications, designing reliable systems
   and solving problems where <b>logic meets creativity</b>.
 </p>
 
-<p>
+<p align="center">
   My main interests include
   <b>backend development</b>,
   <b>mobile development</b>,
@@ -44,34 +37,34 @@
   and <b>machine learning</b>.
 </p>
 
-<p>
+<br>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sara-ponjevic">
     <img
       src="https://img.shields.io/badge/LinkedIn-74B8AE?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-    >
+    />
   </a>
 
   <a href="mailto:saraponjeviic@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-315F5A?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
-    >
+    />
   </a>
 
   <a href="https://github.com/saraponjevic/saraponjevic/raw/refs/heads/main/Sara_Ponjevic_CV.pdf">
     <img
       src="https://img.shields.io/badge/Download_CV-B7DDD7?style=for-the-badge&logo=googledrive&logoColor=234B47"
       alt="Download CV"
-    >
+    />
   </a>
 </p>
 
-</td>
-</tr>
-</table>
-
 <br>
+
+<!-- ABOUT ME -->
 
 <!-- ABOUT ME -->
 
