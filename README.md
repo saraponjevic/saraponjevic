@@ -125,7 +125,7 @@
   <tr>
     <td width="50%" valign="top">
 
-<h3 align="center">🌍 Tourist Tour Management Platform</h3>
+<h3 align="center">Tourist Tour Management Platform</h3>
 
 <p align="center">
   Microservices-based tourist platform where users can create blogs,
@@ -152,7 +152,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">🔐 PKI and Secure Password Manager</h3>
+<h3 align="center">PKI and Secure Password Manager</h3>
 
 <p align="center">
   Secure web application for digital certificate management,
@@ -179,9 +179,9 @@
 </tr>
 
 <tr>
-<td colspan="2" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3 align="center">🎮 Slagalica – Multiplayer Quiz Game</h3>
+<h3 align="center">Slagalica – Multiplayer Quiz Game</h3>
 
 <p align="center">
   Android multiplayer quiz application inspired by the Serbian TV game
@@ -205,12 +205,37 @@
 </p>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3 align="center"> Jutjubić - Video Sharing Platform</h3>
+
+<p align="center">
+  Web application inspired by YouTube, allowing users to upload videos,
+  browse and watch content, and explore available video collections.
+</p>
+
+<p align="center">
+  <b>Technologies:</b><br>
+  Java, Spring Boot, React, Docker, RabbitMQ
+  and transaction management
+</p>
+
+<p align="center">
+  <a href="https://github.com/saraponjevic/video-sharing-platform">
+    <img
+      src="https://img.shields.io/badge/View_Project-74B8AE?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Video Sharing Platform"
+    />
+  </a>
+</p>
+
+</td>
 </tr>
 </table>
 
 <br>
 
-<!-- FOOTER -->
 <!-- FOOTER -->
 
 <p align="center">
