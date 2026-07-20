@@ -4,6 +4,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=180&color=B7DDD7&text=Welcome%20to%20my%20GitHub&fontColor=234B47&fontSize=38&fontAlignY=35&animation=fadeIn"
     width="100%"
+    alt="Welcome to my GitHub"
   />
 </p>
 
@@ -15,8 +16,7 @@
       <img
         src="./profile-photo.jpeg"
         width="280"
-        alt="Sara Ponjevic"
-        style="border-radius: 20px;"
+        alt="Sara Ponjević"
       />
     </td>
 
@@ -43,8 +43,10 @@
   My main interests include
   <b>backend development</b>,
   <b>mobile development</b>,
-  <b>software architecture</b>
-  and <b>system design</b>.
+  <b>software architecture</b>,
+  <b>system design</b>,
+  <b>artificial intelligence</b>
+  and <b>machine learning</b>.
 </p>
 
 <br>
@@ -80,9 +82,7 @@
 
 <!-- ABOUT ME -->
 
-<h2 align="center">
-  <span style="color:#74B8AE;">About Me</span>
-</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   🎓 Final-year student at the Faculty of Technical Sciences
@@ -93,6 +93,8 @@
   <br><br>
   🧠 Interested in software architecture, system design and problem solving
   <br><br>
+  🤖 Exploring artificial intelligence and machine learning
+  <br><br>
   🌱 Always learning, experimenting and improving my technical skills
 </p>
 
@@ -102,80 +104,109 @@
 
 <h2 align="center">My Technical Toolbox</h2>
 
+<h3 align="center">Programming Languages</h3>
+
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,kotlin,cpp,cs,python,js,ts"
+    src="https://skillicons.dev/icons?i=java,kotlin,cpp,cs,python,js,ts&perline=7"
     alt="Programming languages"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=spring,dotnet,angular,vue,react,nodejs"
-    alt="Frameworks"
-  />
-</p>
+<br>
+
+<h3 align="center">Frameworks and Technologies</h3>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,git,github,vscode,visualstudio"
-    alt="Tools"
+    src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,nodejs&perline=5"
+    alt="Frameworks and technologies"
   />
 </p>
 
 <br>
 
-<!-- WHAT I DO -->
+<h3 align="center">Mobile Development</h3>
 
-<h2 align="center">What I Love Building</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>📱 Mobile Apps</h3>
-      <p>
-        Modern Android applications created with Java, Kotlin and Firebase.
-      </p>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>⚙️ Backend Systems</h3>
-      <p>
-        Reliable application logic, APIs and database-driven systems.
-      </p>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>🌐 Web Applications</h3>
-      <p>
-        Functional and responsive applications with modern technologies.
-      </p>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>🏗️ System Design</h3>
-      <p>
-        Structured solutions focused on scalability, clarity and maintainability.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle&perline=3"
+    alt="Mobile development tools"
+  />
+</p>
 
 <br>
 
-<!-- CURRENT FOCUS -->
-
-<h2 align="center">Currently Focused On</h2>
+<h3 align="center">Databases</h3>
 
 <p align="center">
-  🔹 Improving my backend and system-design knowledge
-  <br><br>
-  🔹 Building polished portfolio projects
-  <br><br>
-  🔹 Developing Android and full-stack applications
-  <br><br>
-  🔹 Writing clean, maintainable and well-structured code
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=3"
+    alt="Databases"
+  />
 </p>
+
+<br>
+
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=docker,rabbitmq,git,github,vscode,visualstudio,idea&perline=7"
+    alt="Development tools"
+  />
+</p>
+
+<br>
+
+<!-- TECHNOLOGY DETAILS -->
+
+<details>
+  <summary><b>View technology details</b></summary>
+
+<br>
+
+### Programming Languages
+
+- **Java** — backend and Android development
+- **Kotlin** — Android development
+- **C++** — system programming and algorithms
+- **C#** — .NET applications
+- **Python** — artificial intelligence, automation and backend development
+- **JavaScript** — web development
+- **TypeScript** — strongly typed JavaScript development
+
+### Frameworks and Platforms
+
+- **Spring Boot** — Java backend development
+- **.NET** — Microsoft platform for application development
+- **Angular** — frontend framework
+- **React** — frontend library
+- **Node.js** — JavaScript runtime for backend development
+
+### Mobile Development
+
+- **Android Studio** — integrated development environment for Android
+- **Firebase** — authentication, database and cloud services
+- **Gradle** — build automation and dependency management
+
+### Databases
+
+- **PostgreSQL**
+- **MongoDB**
+- **MySQL**
+
+### Development Tools
+
+- **Docker**
+- **RabbitMQ**
+- **Git**
+- **GitHub**
+- **Visual Studio Code**
+- **Visual Studio**
+- **IntelliJ IDEA**
+
+</details>
 
 <br>
 
@@ -197,17 +228,18 @@
 </p>
 
 <p align="center">
-  <a href="OVDE_STAVI_LINK_DO_REPOZITORIJUMA">
+  <a href="OVDE_STAVI_LINK_DO_SABONA_REPOZITORIJUMA">
     <img
       src="https://img.shields.io/badge/View_Project-74B8AE?style=for-the-badge&logo=github&logoColor=white"
-      alt="View project"
+      alt="View Sabona project"
     />
   </a>
 </p>
-    </td>
 
-    <td width="50%" valign="top">
-      <h3 align="center">📦 Sales and Warehouse System</h3>
+</td>
+
+<td width="50%" valign="top">
+  <h3 align="center">📦 Sales and Warehouse System</h3>
 
 <p align="center">
   Business application for managing invoices, orders, warehouses and inventory.
@@ -218,45 +250,17 @@
 </p>
 
 <p align="center">
-  <a href="OVDE_STAVI_LINK_DO_REPOZITORIJUMA">
+  <a href="OVDE_STAVI_LINK_DO_MAGACIN_REPOZITORIJUMA">
     <img
       src="https://img.shields.io/badge/View_Project-315F5A?style=for-the-badge&logo=github&logoColor=white"
-      alt="View project"
+      alt="View Sales and Warehouse project"
     />
   </a>
 </p>
-    </td>
-  </tr>
+
+</td>
+</tr>
 </table>
-
-<br>
-
-<!-- GITHUB STATISTICS -->
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=saraponjevic&show_icons=true&hide_border=false&border_color=B7DDD7&title_color=4F9E94&icon_color=74B8AE&text_color=315F5A&bg_color=F7FFFD"
-    alt="Sara's GitHub statistics"
-  />
-
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraponjevic&layout=compact&hide_border=false&border_color=B7DDD7&title_color=4F9E94&text_color=315F5A&bg_color=F7FFFD"
-    alt="Most used languages"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saraponjevic&background=F7FFFD&border=B7DDD7&stroke=74B8AE&ring=4F9E94&fire=315F5A&currStreakLabel=4F9E94&sideLabels=315F5A&dates=567A76"
-    alt="GitHub streak"
-  />
-</p>
 
 <br>
 
@@ -271,36 +275,13 @@
 
 <br>
 
-<!-- CONTACT -->
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  I am always open to learning opportunities, interesting projects
-  and connecting with other people in technology.
-</p>
-
-<p align="center">
-  <a href="OVDE_STAVI_LINK_DO_LINKEDINA">
-    <img
-      src="https://img.shields.io/badge/Connect_on_LinkedIn-74B8AE?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:OVDE_STAVI_SVOJ_EMAIL">
-    <img
-      src="https://img.shields.io/badge/Send_Me_an_Email-315F5A?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
-
-<br>
+<!-- QUOTE -->
 
 <p align="center">
   <i>“Great software begins with curiosity and grows through persistence.”</i>
 </p>
+
+<br>
 
 <!-- FOOTER -->
 
@@ -308,5 +289,6 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B7DDD7&section=footer"
     width="100%"
+    alt="Footer"
   />
 </p>
