@@ -66,7 +66,7 @@
     />
   </a>
 
-  <a href="Sara Ponjević – CV.pdf">
+  <a href="https://github.com/saraponjevic/saraponjevic/raw/refs/heads/main/Sara_Ponjevic_CV.pdf">
     <img
       src="https://img.shields.io/badge/Download_CV-B7DDD7?style=for-the-badge&logo=googledrive&logoColor=234B47"
       alt="Download CV"
