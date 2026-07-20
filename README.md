@@ -131,7 +131,7 @@
 
 <td width="50%" valign="top" align="center">
 
-<h3>🌍 Tourist Tour Platform</h3>
+<h3>Tourist Tour Platform</h3>
 
 <p>
   Microservices platform for creating blogs, publishing tours,
@@ -164,7 +164,7 @@
 
 <td width="50%" valign="top" align="center">
 
-<h3>🔐 PKI Password Manager</h3>
+<h3>PKI Password Manager</h3>
 
 <p>
   Security-focused platform for certificate management,
@@ -200,7 +200,7 @@
 
 <td width="50%" valign="top" align="center">
 
-<h3>🎮 Slagalica Quiz Game</h3>
+<h3>Slagalica Quiz Game</h3>
 
 <p>
   Real-time Android multiplayer quiz game with rankings,
@@ -232,7 +232,7 @@
 
 <td width="50%" valign="top" align="center">
 
-<h3>📹 Jutjubić Video Platform</h3>
+<h3>utjubić Video Platform</h3>
 
 <p>
   YouTube-inspired platform for uploading,
