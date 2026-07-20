@@ -119,24 +119,31 @@
 
 <h2 align="center">Featured Projects</h2>
 
+<br>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Sabona</h3>
+
+<h3 align="center">🌍 Tourist Tour Management Platform</h3>
 
 <p align="center">
-  Android quiz and puzzle game developed using Java and Firebase.
+  Microservices-based tourist platform where users can create blogs,
+  publish and purchase guided tours, follow other users and interact
+  through reviews and comments.
 </p>
 
 <p align="center">
-  Authentication, multiplayer features, rankings, missions and tournaments.
+  <b>Technologies:</b><br>
+  Java, Spring Boot, React, PostgreSQL, MongoDB, Neo4j, Docker,
+  gRPC, SAGA, API Gateway, Prometheus and Grafana
 </p>
 
 <p align="center">
-  <a href="OVDE_STAVI_LINK_DO_SABONA_REPOZITORIJUMA">
+  <a href="https://github.com/saraponjevic/tourist-tour-platform">
     <img
       src="https://img.shields.io/badge/View_Project-74B8AE?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Sabona project"
+      alt="View Tourist Tour Management Platform"
     />
   </a>
 </p>
@@ -144,21 +151,55 @@
 </td>
 
 <td width="50%" valign="top">
-  <h3 align="center">📦 Sales and Warehouse System</h3>
+
+<h3 align="center">🔐 PKI and Secure Password Manager</h3>
 
 <p align="center">
-  Business application for managing invoices, orders, warehouses and inventory.
+  Secure web application for digital certificate management,
+  authentication, authorization, encrypted password storage
+  and secure communication.
 </p>
 
 <p align="center">
-  Created with Mendix, business microflows and structured domain models.
+  <b>Technologies:</b><br>
+  Java, Spring Boot, React, PostgreSQL, Spring Security,
+  PKI and X.509
 </p>
 
 <p align="center">
-  <a href="OVDE_STAVI_LINK_DO_MAGACIN_REPOZITORIJUMA">
+  <a href="https://github.com/saraponjevic/pki-password-manager">
     <img
       src="https://img.shields.io/badge/View_Project-315F5A?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Sales and Warehouse project"
+      alt="View PKI and Secure Password Manager"
+    />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<h3 align="center">🎮 Slagalica – Multiplayer Quiz Game</h3>
+
+<p align="center">
+  Android multiplayer quiz application inspired by the Serbian TV game
+  Slagalica, featuring multiple game modes, real-time gameplay,
+  authentication, leaderboards, achievements and tournaments.
+</p>
+
+<p align="center">
+  <b>Technologies:</b><br>
+  Java, Android Studio, Firebase Authentication
+  and Firebase Realtime Database
+</p>
+
+<p align="center">
+  <a href="https://github.com/saraponjevic/multiplayer-quiz-game-slagalica">
+    <img
+      src="https://img.shields.io/badge/View_Project-B7DDD7?style=for-the-badge&logo=github&logoColor=234B47"
+      alt="View Slagalica Multiplayer Quiz Game"
     />
   </a>
 </p>
@@ -169,6 +210,7 @@
 
 <br>
 
+<!-- FOOTER -->
 <!-- FOOTER -->
 
 <p align="center">
