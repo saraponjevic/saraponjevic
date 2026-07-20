@@ -52,7 +52,7 @@
 <br>
 
 <p align="center">
-  <a href="linkedin.com/in/sara-ponjevic">
+  <a href="https://www.linkedin.com/in/sara-ponjevic">
     <img
       src="https://img.shields.io/badge/LinkedIn-74B8AE?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -66,7 +66,7 @@
     />
   </a>
 
-  <a href="./Sara_Ponjevic_CV.pdf">
+  <a href="./Sara Ponjević - CV.pdf">
     <img
       src="https://img.shields.io/badge/Download_CV-B7DDD7?style=for-the-badge&logo=googledrive&logoColor=234B47"
       alt="Download CV"
@@ -104,109 +104,28 @@
 
 <h2 align="center">My Technical Toolbox</h2>
 
-<h3 align="center">Programming Languages</h3>
+<br>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,kotlin,cpp,cs,python,js,ts&perline=7"
-    alt="Programming languages"
+    src="https://skillicons.dev/icons?i=java,kotlin,cpp,cs,python,js,ts,androidstudio,spring&perline=9"
+    alt="Programming languages and technologies"
   />
 </p>
-
-<br>
-
-<h3 align="center">Frameworks and Technologies</h3>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,nodejs&perline=5"
-    alt="Frameworks and technologies"
+    src="https://skillicons.dev/icons?i=dotnet,angular,vue,react,nodejs,firebase,gradle,postgres&perline=8"
+    alt="Frameworks, mobile development and databases"
   />
 </p>
-
-<br>
-
-<h3 align="center">Mobile Development</h3>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle&perline=3"
-    alt="Mobile development tools"
+    src="https://skillicons.dev/icons?i=mongodb,mysql,docker,rabbitmq,git,github,vscode,visualstudio,idea&perline=9"
+    alt="Databases and development tools"
   />
 </p>
-
-<br>
-
-<h3 align="center">Databases</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=3"
-    alt="Databases"
-  />
-</p>
-
-<br>
-
-<h3 align="center">Development Tools</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=docker,rabbitmq,git,github,vscode,visualstudio,idea&perline=7"
-    alt="Development tools"
-  />
-</p>
-
-<br>
-
-<!-- TECHNOLOGY DETAILS -->
-
-<details>
-  <summary><b>View technology details</b></summary>
-
-<br>
-
-### Programming Languages
-
-- **Java** — backend and Android development
-- **Kotlin** — Android development
-- **C++** — system programming and algorithms
-- **C#** — .NET applications
-- **Python** — artificial intelligence, automation and backend development
-- **JavaScript** — web development
-- **TypeScript** — strongly typed JavaScript development
-
-### Frameworks and Platforms
-
-- **Spring Boot** — Java backend development
-- **.NET** — Microsoft platform for application development
-- **Angular** — frontend framework
-- **React** — frontend library
-- **Node.js** — JavaScript runtime for backend development
-
-### Mobile Development
-
-- **Android Studio** — integrated development environment for Android
-- **Firebase** — authentication, database and cloud services
-- **Gradle** — build automation and dependency management
-
-### Databases
-
-- **PostgreSQL**
-- **MongoDB**
-- **MySQL**
-
-### Development Tools
-
-- **Docker**
-- **RabbitMQ**
-- **Git**
-- **GitHub**
-- **Visual Studio Code**
-- **Visual Studio**
-- **IntelliJ IDEA**
-
-</details>
 
 <br>
 
