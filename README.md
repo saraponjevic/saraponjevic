@@ -66,7 +66,7 @@
 
 <!-- ABOUT ME -->
 
-<!-- ABOUT ME -->
+
 
 <h2 align="center">About Me</h2>
 
@@ -119,122 +119,155 @@
 
 <h2 align="center">Featured Projects</h2>
 
+<p align="center">
+  A selection of projects focused on backend systems, security,
+  mobile development and distributed architectures.
+</p>
+
 <br>
 
 <table align="center">
-  <tr>
-    <td width="50%" valign="top">
+<tr>
 
-<h3 align="center">Tourist Tour Management Platform</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-  Microservices-based tourist platform where users can create blogs,
-  publish and purchase guided tours, follow other users and interact
-  through reviews and comments.
+<h3>🌍 Tourist Tour Platform</h3>
+
+<p>
+  Microservices platform for creating blogs, publishing tours,
+  social interaction and tour management.
 </p>
 
-<p align="center">
-  <b>Technologies:</b><br>
-  Java, Spring Boot, React, PostgreSQL, MongoDB, Neo4j, Docker,
-  gRPC, SAGA, API Gateway, Prometheus and Grafana
+<p>
+  <img src="https://img.shields.io/badge/Java-315F5A?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-74B8AE?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-B7DDD7?style=flat-square&logo=react&logoColor=234B47">
+  <img src="https://img.shields.io/badge/Docker-315F5A?style=flat-square&logo=docker&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="https://github.com/saraponjevic/tourist-tour-platform">
-    <img
-      src="https://img.shields.io/badge/View_Project-74B8AE?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Tourist Tour Management Platform"
-    />
-  </a>
+<p>
+  <sub>
+    PostgreSQL · MongoDB · Neo4j · gRPC · SAGA · Prometheus · Grafana
+  </sub>
 </p>
+
+<a href="https://github.com/saraponjevic/tourist-tour-platform">
+  <img
+    src="https://img.shields.io/badge/Explore_Project-74B8AE?style=for-the-badge&logo=github&logoColor=white"
+    alt="Tourist Tour Platform"
+  />
+</a>
+
+<br><br>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">PKI and Secure Password Manager</h3>
+<h3>🔐 PKI Password Manager</h3>
 
-<p align="center">
-  Secure web application for digital certificate management,
-  authentication, authorization, encrypted password storage
-  and secure communication.
+<p>
+  Security-focused platform for certificate management,
+  authentication and encrypted password storage.
 </p>
 
-<p align="center">
-  <b>Technologies:</b><br>
-  Java, Spring Boot, React, PostgreSQL, Spring Security,
-  PKI and X.509
+<p>
+  <img src="https://img.shields.io/badge/Java-315F5A?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-74B8AE?style=flat-square&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/React-B7DDD7?style=flat-square&logo=react&logoColor=234B47">
+  <img src="https://img.shields.io/badge/PostgreSQL-315F5A?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="https://github.com/saraponjevic/pki-password-manager">
-    <img
-      src="https://img.shields.io/badge/View_Project-315F5A?style=for-the-badge&logo=github&logoColor=white"
-      alt="View PKI and Secure Password Manager"
-    />
-  </a>
+<p>
+  <sub>
+    PKI · X.509 · Authentication · Authorization · Encryption
+  </sub>
 </p>
+
+<a href="https://github.com/saraponjevic/pki-password-manager">
+  <img
+    src="https://img.shields.io/badge/Explore_Project-315F5A?style=for-the-badge&logo=github&logoColor=white"
+    alt="PKI Password Manager"
+  />
+</a>
+
+<br><br>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-<h3 align="center">Slagalica – Multiplayer Quiz Game</h3>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-  Android multiplayer quiz application inspired by the Serbian TV game
-  Slagalica, featuring multiple game modes, real-time gameplay,
-  authentication, leaderboards, achievements and tournaments.
+<h3>🎮 Slagalica Quiz Game</h3>
+
+<p>
+  Real-time Android multiplayer quiz game with rankings,
+  achievements, missions and tournaments.
 </p>
 
-<p align="center">
-  <b>Technologies:</b><br>
-  Java, Android Studio, Firebase Authentication
-  and Firebase Realtime Database
+<p>
+  <img src="https://img.shields.io/badge/Java-315F5A?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-74B8AE?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-B7DDD7?style=flat-square&logo=firebase&logoColor=234B47">
 </p>
 
-<p align="center">
-  <a href="https://github.com/saraponjevic/multiplayer-quiz-game-slagalica">
-    <img
-      src="https://img.shields.io/badge/View_Project-B7DDD7?style=for-the-badge&logo=github&logoColor=234B47"
-      alt="View Slagalica Multiplayer Quiz Game"
-    />
-  </a>
+<p>
+  <sub>
+    Firebase Authentication · Realtime Database · Multiplayer Gameplay
+  </sub>
 </p>
+
+<a href="https://github.com/saraponjevic/multiplayer-quiz-game-slagalica">
+  <img
+    src="https://img.shields.io/badge/Explore_Project-B7DDD7?style=for-the-badge&logo=github&logoColor=234B47"
+    alt="Slagalica Quiz Game"
+  />
+</a>
+
+<br><br>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center"> Jutjubić - Video Sharing Platform</h3>
+<h3>📹 Jutjubić Video Platform</h3>
 
-<p align="center">
-  Web application inspired by YouTube, allowing users to upload videos,
-  browse and watch content, and explore available video collections.
+<p>
+  YouTube-inspired platform for uploading,
+  browsing and watching video content.
 </p>
 
-<p align="center">
-  <b>Technologies:</b><br>
-  Java, Spring Boot, React, Docker, RabbitMQ
-  and transaction management
+<p>
+  <img src="https://img.shields.io/badge/Java-315F5A?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-74B8AE?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-B7DDD7?style=flat-square&logo=react&logoColor=234B47">
+  <img src="https://img.shields.io/badge/RabbitMQ-315F5A?style=flat-square&logo=rabbitmq&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="https://github.com/saraponjevic/video-sharing-platform">
-    <img
-      src="https://img.shields.io/badge/View_Project-74B8AE?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Video Sharing Platform"
-    />
-  </a>
+<p>
+  <sub>
+    Docker · Messaging · Transactions · Video Management
+  </sub>
 </p>
+
+<a href="https://github.com/saraponjevic/video-sharing-platform">
+  <img
+    src="https://img.shields.io/badge/Explore_Project-74B8AE?style=for-the-badge&logo=github&logoColor=white"
+    alt="Jutjubić Video Platform"
+  />
+</a>
+
+<br><br>
 
 </td>
 </tr>
 </table>
 
 <br>
+
+<!-- FOOTER -->
 
 <!-- FOOTER -->
 
