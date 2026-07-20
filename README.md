@@ -232,7 +232,7 @@
 
 <td width="50%" valign="top" align="center">
 
-<h3>utjubić Video Platform</h3>
+<h3>Jutjubić Video Platform</h3>
 
 <p>
   YouTube-inspired platform for uploading,
