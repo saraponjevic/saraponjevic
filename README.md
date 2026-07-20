@@ -52,14 +52,14 @@
 <br>
 
 <p align="center">
-  <a href="OVDE_STAVI_LINK_DO_LINKEDINA">
+  <a href="linkedin.com/in/sara-ponjevic">
     <img
       src="https://img.shields.io/badge/LinkedIn-74B8AE?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="mailto:OVDE_STAVI_SVOJ_EMAIL">
+  <a href="mailto:saraponjeviic@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-315F5A?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
@@ -85,17 +85,17 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  🎓 Final-year student at the Faculty of Technical Sciences
+  - Final-year student at the Faculty of Technical Sciences
   <br><br>
-  💻 Passionate about creating useful, reliable and visually polished applications
+  - Passionate about creating useful, reliable and visually polished applications
   <br><br>
-  📱 Experienced in mobile, backend and full-stack development
+  - Experienced in mobile, backend and full-stack development
   <br><br>
-  🧠 Interested in software architecture, system design and problem solving
+  - Interested in software architecture, system design and problem solving
   <br><br>
-  🤖 Exploring artificial intelligence and machine learning
+  - Exploring artificial intelligence and machine learning
   <br><br>
-  🌱 Always learning, experimenting and improving my technical skills
+  - Always learning, experimenting and improving my technical skills
 </p>
 
 <br>
@@ -261,25 +261,6 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-<!-- PROFILE VIEWS -->
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=saraponjevic&label=Profile%20Views&color=74B8AE&style=for-the-badge"
-    alt="Profile views"
-  />
-</p>
-
-<br>
-
-<!-- QUOTE -->
-
-<p align="center">
-  <i>“Great software begins with curiosity and grows through persistence.”</i>
-</p>
 
 <br>
 
