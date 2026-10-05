@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  Final-year student at the
-  <b>Faculty of Technical Sciences in Novi Sad</b>.
+ Computer Engineering graduate from the
+<b>Faculty of Technical Sciences in Novi Sad</b>, currently pursuing a Master's degree in Intelligent Systems (AI).
 </p>
 
 <p align="center">
