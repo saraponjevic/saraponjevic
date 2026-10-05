@@ -71,7 +71,10 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  - Final-year student at the Faculty of Technical Sciences
+  - Computer Engineering graduate from the
+Faculty of Technical Sciences in Novi Sad
+  <br><br>
+  - Currently pursuing a Master's degree in Intelligent Systems (AI)
   <br><br>
   - Passionate about creating useful, reliable and visually polished applications
   <br><br>
